@@ -1,11 +1,5 @@
 # SHA256
 
-(-)В този проект са използвани два notepad файла за четене на съобщение и за записване на хеша.
-
-(-)Единствената външна библиотека, която е използвана в проекта, е fstream.
-
-(-)Има набор от функции, които са разпределени на категории(търсене на дължина на низ, работа с файлове, обработка на съобщението, конвериране в хеш и др.).
-
-(-)За да се промени съобщение, просто се влиза във файла "text.txt" и се променя низа.
-
-(-)Резултата се записва в "result.txt".
+What it is about?
+-
+SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function designed by the National Security Agency (NSA) and part of the SHA-2 family. It is widely used for securing data through digital signatures, certificates, and password hashing.
