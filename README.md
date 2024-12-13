@@ -26,4 +26,4 @@ Additional websites:
 -
 
 -  [What is SHA256?](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/)
--  [SHA256 Algorithm Explained](https://sha256algorithm.com/) - //Note: A really good one, a must-see annimation
+-  [SHA256 Algorithm Explained](https://sha256algorithm.com/) - //Note: A really good one, a must-see animation
