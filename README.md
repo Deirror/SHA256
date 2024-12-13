@@ -19,8 +19,7 @@ The algorith is secure and widely used in applications like blockchain technolog
 Description of my project:
 -
 
-//Note: It is written in Bulgarian.
-[Project - Hashing](https://docs.google.com/document/d/1I4QRbqHKSjGHT6yBDYyG-9rwvc1khftCuSfDZdWOHqI/edit?tab=t.0#heading=h.g9g1pqw9w2ed)
+[Project - Hashing](https://docs.google.com/document/d/1I4QRbqHKSjGHT6yBDYyG-9rwvc1khftCuSfDZdWOHqI/edit?tab=t.0#heading=h.g9g1pqw9w2ed)//Note: It is written in Bulgarian.
 
 Additional websites:
 -
