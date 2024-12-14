@@ -14,9 +14,9 @@ What is it about?
 
 SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function designed by the National Security Agency (NSA) and part of the SHA-2 family. It is widely used for securing data through digital signatures, certificates, and password hashing.
 
-The algorith is secure and widely used in applications like blockchain technology (e.g., Bitcoin), data integrity verification, and secure authentication mechanisms.
+The algorithm is secure and widely used in applications like blockchain technology (e.g., Bitcoin), data integrity verification, and secure authentication mechanisms.
 
-Description of my project:
+Description of the project:
 -
 
 -  When you run main.cpp, a "result.txt" must be generated for you which contains the hashed input. It's highly unlikely that two different inputs will produce the same hash.
