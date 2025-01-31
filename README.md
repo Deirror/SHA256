@@ -5,9 +5,9 @@
 This repository contains
 -
 
--  An introduction to SHA256.
--  A simple and cleanly written implementation of the algorithm in C++.
--  Some additional websites, which really helped me understand how the algorithm works.
+-  An introduction to SHA256
+-  A simple and cleanly written implementation of the algorithm in C++
+-  Some additional websites, which really helped me understand how the algorithm works
 
 What is it about?
 -
@@ -19,8 +19,8 @@ The algorithm is secure and widely used in applications like blockchain technolo
 Description of the project
 -
 
--  When you run main.cpp, a "result.txt" must be generated for you which contains the hashed input. It's highly unlikely that two different inputs will produce the same hash.
--  [Project - Hashing](https://docs.google.com/document/d/1I4QRbqHKSjGHT6yBDYyG-9rwvc1khftCuSfDZdWOHqI/edit?tab=t.0#heading=h.g9g1pqw9w2ed) - //Note: That's my description of my task, it is written in Bulgarian.
+-  When you run main.cpp, a "result.txt" must be generated for you which contains the hashed input. It's highly unlikely that two different inputs will produce the same hash
+-  [Project - Hashing](https://docs.google.com/document/d/1I4QRbqHKSjGHT6yBDYyG-9rwvc1khftCuSfDZdWOHqI/edit?tab=t.0#heading=h.g9g1pqw9w2ed) - //Note: That's my description of my task, it is written in Bulgarian
 
 Additional websites
 -
